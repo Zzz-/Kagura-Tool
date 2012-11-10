@@ -12,7 +12,7 @@
 ちなみに玉神楽はブラウザゲーです。
 
 # 玉神楽のログを読んで表形式(csv)に直すプログラム #
-[最新版](https://github.com/Zzz-/Kagura-Tool/blob/master/kagura_log2csv%20ver1.00.zip "kagura_log2csv ver1.00")
+[最新版](https://github.com/Zzz-/Kagura-Tool/blob/master/kagura_log2csv%20ver1.00.zip?raw=true "kagura_log2csv ver1.00")
 
 要約：ちょっとした手間でログ情報を収集するよ！
 
