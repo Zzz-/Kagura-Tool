@@ -8,6 +8,8 @@
 
 [DTC用玉神楽の環境タイプファイル](https://github.com/Zzz-/Kagura-Tool/blob/master/DTCtype_kagura.txt?raw=true)
 
+[複合相性チェッカー](https://github.com/Zzz-/Pokemon-Tool/blob/master/DoubleTypeChecker/DTCver1.12.zip?raw=true)
+
 # 動作環境 #
 今のところ全てjavaです。バージョン7以降じゃないと動作しません。
 あと一部のjavaは動作が正常ではないようです（主にファイル入出力）。
