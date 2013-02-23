@@ -6,9 +6,11 @@
 
 ポ●モンに似たような、彼方氏が運営されている[東方玉神楽](http://www.tohofes.com/)関連のファイル置き場。
 
+[本家用のツールもどうぞ](https://github.com/Zzz-/Pokemon-Tool)
+
 [DTC用玉神楽の環境タイプファイル](https://github.com/Zzz-/Kagura-Tool/blob/master/DTCtype_kagura.txt?raw=true)
 
-[複合相性チェッカー](https://github.com/Zzz-/Pokemon-Tool/blob/master/DoubleTypeChecker/DTCver1.12.zip?raw=true)
+[複合相性チェッカー](https://github.com/Zzz-/Pokemon-Tool/blob/master/DoubleTypeChecker/DTCver1.14.zip?raw=true)
 
 # 動作環境 #
 今のところ全てjavaです。バージョン7以降じゃないと動作しません。
