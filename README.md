@@ -10,7 +10,7 @@
 
 [DTC用玉神楽の環境タイプファイル](https://github.com/Zzz-/Kagura-Tool/blob/master/DTCtype_kagura.txt?raw=true)
 
-[複合相性チェッカー](https://github.com/Zzz-/Pokemon-Tool/blob/master/DoubleTypeChecker/DTCver1.14.zip?raw=true)
+[複合相性チェッカー](https://github.com/Zzz-/Pokemon-Tool/blob/master/DoubleTypeChecker/DTCver1.15.zip?raw=true)
 
 # 動作環境 #
 今のところ全てjavaです。バージョン7以降じゃないと動作しません。
@@ -47,8 +47,6 @@
 [ダウンロード](https://github.com/Zzz-/Kagura-Tool/raw/master/%E7%8E%89%E7%A5%9E%E6%A5%BD%E7%A8%AE%E6%97%8F%E8%A1%A8.ods)
 
 ・自分用に作ったものを公開用にちょっとテコ入れしたもの
-
-・種族値や属性はもちろん、覚える攻撃技の属性や便利技の有無、火力等の便利情報から髪の色という無駄情報まで書いてあります
 
 ・表計算ソフトによるフィルタリングやソートが便利
 
